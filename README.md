@@ -23,4 +23,3 @@ sudo modprobe -v 8723de
 
 
 
-   eso es todo estara lista y  configurada tu red wifi
