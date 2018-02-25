@@ -10,9 +10,13 @@ en ubuntu 16.04 en todas sus distribuciones ---- xubuntu - lubuntu - mate - kde-
 
 
 git clone https://github.com/smlinux/rtl8723de
+
 cd rtl8723de
-make 
+
+make
+
 sudo make install
+
 sudo modprobe -v 8723de
 
 
