@@ -1,4 +1,4 @@
-# configurar-WIFI-Realtek-Semiconductor-Co.-Ltd.-Device-d723-UBUNTU-16.04LTS
+# Configurar-WIFI-Realtek-Semiconductor-Co.-Ltd.-Device-d723-UBUNTU-16.04LTS
 
 
 Tutorial para instalar y configurar adaptador wifi  Realtek Semiconductor Co., Ltd. Device d723
